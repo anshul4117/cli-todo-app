@@ -18,5 +18,5 @@ cd cli-todo-app
 npm install
 
 
-## Run the app:
+## Installation
 node code.js
