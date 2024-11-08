@@ -25,4 +25,8 @@ npm install
 ```
 
 ## Run the code
+
+```bash
 node code.js
+
+```
