@@ -10,6 +10,7 @@ A command-line interface (CLI) to-do list application built with Node.js.
 
 ## Installation
 
+
 Clone the repository and install dependencies:
 
 ```bash
@@ -17,6 +18,7 @@ git clone your-repo-url
 cd cli-todo-app
 npm install
 
+```
 
-## Installation
+## Run the code
 node code.js
