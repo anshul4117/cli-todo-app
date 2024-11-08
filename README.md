@@ -1,5 +1,9 @@
 # CLI To-Do List App
 
+
+## Project Pick-up 
+- https://roadmap.sh/projects/task-tracker
+
 A command-line interface (CLI) to-do list application built with Node.js.
 
 ## Features
@@ -14,7 +18,7 @@ A command-line interface (CLI) to-do list application built with Node.js.
 Clone the repository and install dependencies:
 
 ```bash
-git clone your-repo-url
+git clone https://github.com/anshul4117/cli-todo-app
 cd cli-todo-app
 npm install
 
